@@ -1,0 +1,10 @@
+c:\users\m bilal hanif\documents\visual studio 2013\Projects\prototype\prototype\bin\Debug\prototype.exe.config
+c:\users\m bilal hanif\documents\visual studio 2013\Projects\prototype\prototype\bin\Debug\prototype.exe
+c:\users\m bilal hanif\documents\visual studio 2013\Projects\prototype\prototype\bin\Debug\prototype.pdb
+c:\users\m bilal hanif\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.csprojResolveAssemblyReference.cache
+c:\users\m bilal hanif\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.MainForm.resources
+c:\users\m bilal hanif\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.Properties.Resources.resources
+c:\users\m bilal hanif\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.csproj.GenerateResource.Cache
+c:\users\m bilal hanif\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.exe
+c:\users\m bilal hanif\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.pdb
+c:\users\m bilal hanif\documents\visual studio 2013\Projects\prototype\prototype\obj\Debug\prototype.csproj.ResolveComReference.cache
